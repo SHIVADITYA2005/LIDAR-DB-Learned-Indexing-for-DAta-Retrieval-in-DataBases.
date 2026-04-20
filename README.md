@@ -1,0 +1,2 @@
+# LIDAR-DB-Learned-Indexing-for-DAta-Retrieval-in-DataBases.
+L-Index is a high-performance database indexing prototype that explores the intersection of systems programming and machine learning. This project implements a Learned Index Structure, replacing traditional $O(\log n)$ search structures (like B-Trees) with a predictive model that "learns" the data distribution to accelerate record retrieval.
